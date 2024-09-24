@@ -2,9 +2,9 @@
 - 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning SQL, POWER BI, and Excel...
 - 💞️ I’m looking to collaborate on working on a data analysis project.
-- 📫 How to reach me .on Nathan.endy@gmail.com
+- 📫 How to reach me on Nathan.endy@gmail.com
 - 😄 Pronouns: Him
-- ⚡ Fun fact: I love to party.
+- ⚡ Fun fact: I am sociable.
 
 <!---
 NathEndy/NathEndy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
